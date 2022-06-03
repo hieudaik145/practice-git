@@ -7,4 +7,12 @@ public class CommonUtil {
 
         return sum > 0 ? sum : 99;
     }
+
+    public static Integer divide(int a, int b) {
+        if (b == 0) {
+            throw new IllegalCallerException("cannot divide by zero");
+        }
+
+        return a/b;
+    }
 }
