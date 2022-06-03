@@ -22,4 +22,8 @@ public class CommonUtil {
 
         return a - b;
     }
+
+    public static Integer multiply(int a, int b) {
+        return a * b;
+    }
 }
