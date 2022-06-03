@@ -15,4 +15,11 @@ public class CommonUtil {
 
         return a/b;
     }
+
+
+    // This method will perform minus data of a and b
+    public static Integer minus(int a, int b) {
+
+        return a - b;
+    }
 }
