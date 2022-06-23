@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-public class File1 {
+public class File3 {
 
 	private String field1;
 
@@ -10,6 +10,6 @@ public class File1 {
 
 	public String toString() {
 
-		return "[ to string data " + field1 + ", " + field2 + ", " + field3 + "]";
+		return "[ ToString " + field1 + ", " + field2 + ", " + field3 + "]";
 	}
 }
