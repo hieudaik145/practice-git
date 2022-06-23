@@ -10,6 +10,6 @@ public class File2 {
 
 	public String toString() {
 
-		return "[" + field1 + ", " + field2 + ", " + field3 + "]";
+		return "[ change to string " + field1 + ", " + field2 + ", " + field3 + "]";
 	}
 }
