@@ -10,7 +10,6 @@ public class File1 {
 
 	public String toString() {
 
-		// comment code 
 		return "[ to string data " + field1 + ", " + field2 + ", " + field3 + "]";
 	}
 }
