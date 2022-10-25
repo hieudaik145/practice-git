@@ -1,0 +1,6 @@
+.idea
+target
+charts/**/*.tgz
+/.settings/
+/.classpath
+/.project
